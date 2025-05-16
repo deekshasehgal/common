@@ -17,7 +17,7 @@ For more about getting support using our email, click [here](#HowtoFormatYourSup
 ## How to Format Your Support Email Request
 This will construct an email in your default mail application that is auto-populated to address our LiveLabs support inbox and will also include your current workshop in the subject line. Follow the steps below to contact us and get a quick resolution to your issue.
 
-1. Do not change the subject line.
+1. In the subject line please provide the **Workshop Name** (see example).
     ![Email](./images/e-mail.png)
 
 2. Include the **Lab Number**, **Task Number**, and **Step Number** where you've encounter the issue. Also, include the **environment** where you are running this workshop (your tenancy or the LiveLabs sandbox tenancy).
@@ -60,17 +60,21 @@ Try these options to access the environment again:
 
 1. From the navigation menu, click **Identity & Security** and select **Domains** under **Identity**.
 
-  ![Select Domains](./images/select-domain.png " ")
+  ![Select Domains](../../images/console-2025/id-domains.png " ")
 
 2. Make sure you are in the correct compartment and click **Default(Current domain)**
 
-  ![Click Default](./images/domain-groups.png " ")
+  ![Click Default](../../images/console-2025/id-default-domain.png " ")
 
-3. From the Identity domain section on the left, click **Groups** to access the groups.
+3. From the menu under the domain you chose, click **User management**.
 
-  ![Click Groups](./images/click-groups.png " ")
+  ![Click Groups](../../images/console-2025/id-user-management.png " ")
+
+4. Scroll until you see **Groups** section.
+
+  ![Click Groups](../../images/console-2025/id-groups.png " ")
 
 ## Acknowledgements
 * **Author** - LiveLabs Team
-* **Contributors** - LiveLabs Team, Arabella Yao
-* **Last Updated By/Date** - Carmen Berdant, Technical Project Manager, Database Product Management, Mar 2024
+* **Contributors** - LiveLabs Team
+* **Last Updated By/Date** - Ramona Magadan, Technical Program Manager, Database Product Management, May 2025
